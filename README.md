@@ -2,6 +2,9 @@
 
 This repository contains all documents and notes of the Matrix Working Group (WG) focused on promoting alternative Homeservers within the Matrix ecosystem.
 
+> [!WARNING]  
+> This Working Group is currently in the proposal phase and has not yet been officially established. The location and name of this repository may change once the WG is formally created.
+
 ## Charta
 
 > [!INFO]  
