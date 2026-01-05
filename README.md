@@ -7,8 +7,8 @@ This repository contains all documents and notes of the Matrix Working Group (WG
 
 ## Charta
 
-> [!INFO]  
-> This charta is not final yet and thsi is just a draft version for discussion.
+> [!NOTE]  
+> This charta is not final yet and this is just a draft version for discussion.
 
 > The Working Group aims to promote decentralization of the Matrix network and help new users to find a homeserver other than matrix.org. Specifically it tries to foster a smoother onboarding experience (to homeservers and clients) on homeservers other than matrix.org and might propose additional measure in the ecosystem as a whole.
 >
