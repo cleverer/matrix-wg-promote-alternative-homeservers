@@ -16,6 +16,12 @@ This repository contains all documents and notes of the Matrix Working Group (WG
 >
 > The WG also sees itself responsible to maintain the Foundation “trusted” public homeserver list.
 
+## Working mode
+
+The WG will hold regular meetings (every first monday of the month at 18:00 CET) to discuss progress, challenges, and next steps. Meeting notes will be documented and stored in this repository.
+
+If you wanna get involved or join a meeting, feel free to join the [#alternative-homeservers:exma.de](https://matrix.to/#/%23alternative-homeservers:exma.de) room.
+
 ## Out of Scope
 
 The WG will not focus on the technical development of homeservers themselves, but rather on the onboarding experience and the ecosystem as a whole.
