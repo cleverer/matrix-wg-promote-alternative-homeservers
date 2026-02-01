@@ -18,7 +18,7 @@ This repository contains all documents and notes of the Matrix Working Group (WG
 
 ## Working mode
 
-The WG will hold regular meetings (every first monday of the month at 18:00 CET) to discuss progress, challenges, and next steps. Meeting notes will be documented and stored in this repository.
+The WG will hold regular meetings (every first monday of the month at TBD CET) to discuss progress, challenges, and next steps. Meeting notes will be documented and stored in this repository.
 
 If you wanna get involved or join a meeting, feel free to join the [#homeserver-decentralization:matrix.org](https://matrix.to/#/%23homeserver-decentralization:matrix.org) room.
 
