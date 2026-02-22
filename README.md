@@ -30,6 +30,7 @@ Additionally, the WG does not currently aim to assist in starting your own homes
 
 ## Repo Structure
 
+- [`agenda/`](agenda/): Contains agenda items and meeting notes for upcoming WG meetings.
 - [`meeting-notes/`](meeting-notes/): Contains notes from WG meetings.
 - [`drafts/`](drafts/): Contains draft documents and proposals related to the WG's objectives.
 - [`documents/`](documents/): Contains policies regarding the inclusion and removal of homeservers from the Foundation "trusted" server list.
