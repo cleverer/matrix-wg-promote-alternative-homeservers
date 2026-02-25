@@ -28,7 +28,7 @@
 - does the homeserver have a homepage with relevant information
 - is there an official support chatroom for homeserver users
 - is the @owner:thatparticular.host regularly pinging in some TWIM-like chatroom
-- does the homeserver implement the [well-known support endpoing](https://spec.matrix.org/unstable/client-server-api/#getwell-knownmatrixsupport)
+- does the homeserver implement the [well-known support endpoint](https://spec.matrix.org/unstable/client-server-api/#getwell-knownmatrixsupport)
 
 ### Legal
 
