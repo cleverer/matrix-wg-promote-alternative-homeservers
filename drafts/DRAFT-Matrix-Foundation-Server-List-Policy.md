@@ -21,6 +21,12 @@ Interpretation, changes and implementation of the policy are handled by the Matr
 
 1. The server fails to meet the criteria outlined above and does not remediate it's violations in a reasonable timeframe.
 
+## How to request inclusion in the list
+
+_TBD:_ ask in the [#homeserver-decentralization:matrix.org](https://matrix.to/#/%23homeserver-decentralization:matrix.org) room. 
+
+### Process
+Inclusions are reviewed manually and might require some time.
 
 ## Appendix: Data required for representation in the list
 
