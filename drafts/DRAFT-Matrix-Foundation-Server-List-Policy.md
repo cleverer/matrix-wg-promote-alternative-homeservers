@@ -63,7 +63,7 @@ Server Admin Contact | Contact information for the server administrator, such as
 Server Location | The physical location of the server, which can be used for geographical diversity and latency considerations.
 Legal Location | The country or legislation the operators are registered/operating in.
 Hosting company Location | If the server is not bare metal operated by the admins, the legal legislation of the hoster.
-Domain registry lcoation | The legislation the TLD of the server is registered in.
+Domain registry Location | The legislation the TLD of the server is registered in.
 IPv4 Support | Does the server have IPv4 Connectivity (inbound and outbound). 
 IPv6 Support | Does the server have IPv6 Connectivity (inbound and outbound).
 OIDC Support | Does the server support OIDC login / next gen auth?
