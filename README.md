@@ -1,4 +1,4 @@
-# Matrix WG - Promote Alternative Homeservers
+# Matrix WG - Homeserver Decentralization
 
 This repository contains all documents and notes of the Matrix Working Group (WG) focused on promoting alternative Homeservers within the Matrix ecosystem.
 
