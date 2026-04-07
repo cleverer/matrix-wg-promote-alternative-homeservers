@@ -1,4 +1,4 @@
-# Matrix WG - Homeserver Decentralization
+# Matrix WG - Homeserver Decentralisation
 
 This repository contains all documents and notes of the Matrix Working Group (WG) focused on promoting alternative Homeservers within the Matrix ecosystem.
 
@@ -10,7 +10,7 @@ This repository contains all documents and notes of the Matrix Working Group (WG
 > [!NOTE]  
 > This charta is not final yet and this is just a draft version for discussion.
 
-> The Working Group aims to promote decentralization of the Matrix network and help new users to find a homeserver other than matrix.org. Specifically it tries to foster a smoother onboarding experience (to homeservers and clients) on homeservers other than matrix.org and might propose additional measure in the ecosystem as a whole.
+> The Working Group aims to promote decentralisation of the Matrix network and help new users to find a homeserver other than matrix.org. Specifically it tries to foster a smoother onboarding experience (to homeservers and clients) on homeservers other than matrix.org and might propose additional measure in the ecosystem as a whole.
 >
 > Our WG outcome would likely include a technical solution to choose a public homeserver, a default foundation “trusted” server list with an inclusion and removal process of such servers from the Foundation “trusted” list. This include a clear and public policy on how to join the “trusted” server list.
 >
@@ -20,7 +20,7 @@ This repository contains all documents and notes of the Matrix Working Group (WG
 
 The WG will hold regular meetings (every first monday of the month at 19:00 CET) to discuss progress, challenges, and next steps. Meeting notes will be documented and stored in this repository.
 
-If you wanna get involved or join a meeting, feel free to join the [#homeserver-decentralization:matrix.org](https://matrix.to/#/%23homeserver-decentralization:matrix.org) room.
+If you wanna get involved or join a meeting, feel free to join the [#homeserver-decentralisation:matrix.org](https://matrix.to/#/%23homeserver-decentralisation:matrix.org) room.
 
 ## Out of Scope
 
