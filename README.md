@@ -17,7 +17,7 @@ This repository contains all documents and notes of the Matrix Working Group (WG
 
 The WG will hold regular meetings (every first monday of the month at 19:00 CET/CEST) to discuss progress, challenges, and next steps. Meeting notes will be documented and stored in this repository.
 
-If you wanna get involved, join a meeting or just follow our progress, feel free to join the [#homeserver-decentralisation:matrix.org](https://matrix.to/#/%23homeserver-decentralisation:matrix.org) room.
+If you want to get involved, join a meeting or just follow our progress, feel free to join the [#homeserver-decentralisation:matrix.org](https://matrix.to/#/%23homeserver-decentralisation:matrix.org) room.
 
 ## Out of Scope
 
@@ -25,7 +25,7 @@ The WG will not focus on the technical development of homeservers themselves, bu
 
 Additionally, the WG does not currently aim to assist in starting your own homeserver, but rather to promote existing alternative homeservers. See the "Other Useful Resources" section below for links that may help you in starting your own homeserver.
 
-We also do not aim to come up with a system to publish every possible homeserver list. We rather focus on improving the onboarding experience for first time users and providing a clear policy for the Foundation "trusted" server list. We will not maintain a comprehensive list of all public homeservers, but rather focus on promoting a select few that meet our criteria for inclusion in the Foundation "recommended" server list.
+We also do not aim to come up with a system to publish every possible homeserver list. We rather focus on improving the onboarding experience for first time users and providing a clear policy for the Foundation's "trusted" server list. We will not maintain a comprehensive list of all public homeservers, but rather focus on promoting a select few that meet our criteria for inclusion in the Foundation's "recommended" server list.
 
 ## Repo Structure
 
