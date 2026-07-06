@@ -20,7 +20,7 @@ The Working Group focuses on improving the onboarding experience across Matrix h
 
 ## Ongoing responsibilities
 
-The Working Group is responsible for maintaining the Matrix.org Foundation’s trusted public homeserver list and periodically reviewing the homeservers included on it.
+The Working Group is responsible for maintaining The Matrix.org Foundation’s trusted public homeserver list and periodically reviewing the homeservers included on it.
 
 ## Working mode
 
