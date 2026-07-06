@@ -53,7 +53,7 @@ To be included in the list, a server must provide the following information:
 
 Title | Description
 --- | ---
-Server Name | The matrix `server_name` of the server, which is used to identify it within the Matrix ecosystem.
+Server Name | The Matrix [`server_name`](https://spec.matrix.org/latest/appendices/#server-name) of the server, which is used to identify it within the Matrix ecosystem.
 Server Common Name | A human-readable name for the server, which can be used for display purposes.
 Server URL | The URL of the server, which should be accessible and properly configured.
 UI URL | If the server is providing a web-client, the URL to it.
