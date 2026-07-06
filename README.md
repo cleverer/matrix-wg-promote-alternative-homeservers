@@ -1,17 +1,26 @@
-# Matrix WG - Homeserver Decentralisation
+# Matrix Homeserver Decentralisation Working Group
 
 This repository contains all documents and notes of the Matrix Working Group (WG) focused on promoting alternative Homeservers within the Matrix ecosystem.
 
 > [!WARNING]  
 > This Working Group is currently in the proposal phase and has not yet been officially established. The location and name of this repository may change once the WG is formally created.
 
-## Charta
+## Charter
 
-> The Working Group aims to promote decentralisation of the Matrix network and help new users to find a homeserver other than matrix.org. Specifically it tries to foster a smoother onboarding experience (to homeservers and clients) on homeservers other than matrix.org and might propose additional measure in the ecosystem as a whole.
->
-> Our WG outcome would likely include a technical solution to choose a public homeserver, a default foundation “trusted” server list with an inclusion and removal process of such servers from the Foundation “trusted” list. This include a clear and public policy on how to join the “trusted” server list.
->
-> The WG also sees itself responsible to maintain the Foundation “trusted” public homeserver list.
+The Matrix Homeserver Decentralisation Working Group promotes decentralisation across the Matrix network by helping users discover and join homeservers other than `matrix.org`.
+
+The Working Group focuses on improving the onboarding experience across Matrix homeservers and clients. This may include developing technical solutions for homeserver discovery and selection, as well as proposing broader ecosystem improvements that make decentralised onboarding easier and more reliable.
+
+## Expected outcomes
+
+- A technical solution that helps users choose a suitable public homeserver.
+- A Matrix.org Foundation-maintained list of trusted public homeservers.
+- Clear, public criteria for inclusion on and removal from the trusted homeserver list.
+- A transparent process through which homeserver operators can apply for inclusion.
+
+## Ongoing responsibilities
+
+The Working Group is responsible for maintaining the Matrix.org Foundation’s trusted public homeserver list and periodically reviewing the homeservers included on it.
 
 ## Working mode
 
