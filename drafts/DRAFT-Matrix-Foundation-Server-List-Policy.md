@@ -12,7 +12,8 @@ The policy outlined here may be used for other or as the basis for other lists o
 > This document does not describe or formalize the list itself, but rather the policy a homeserver must meet to be included in the list. The list itself and its format is maintained separately and may be updated independently of this policy.  
 > In contrast to the policy, the list specification can be used by anyone to host their own list of servers, and the criteria outlined in this document are only applicable to the Matrix Foundation Server List.
 
-Interpretation, changes and implementation of the policy are handled by the Matrix Foundation Homeserver Decentralisation Working Group.
+Interpretation, changes and implementation of the policy are handled by the Matrix Foundation Homeserver Decentralisation Working Group.  
+According to the WGs charter, the WG periodically updates the list. There are not guarantuees towards processing time, but it is the goal to automate as much as possible and react promptoly to issues.
 
 ---
 
@@ -30,6 +31,8 @@ Interpretation, changes and implementation of the policy are handled by the Matr
     - How can admins be contacted?
     - What moderation rules/server rules does the server have?
     - What are the registration requirements/process?
+    - Hosting type description (see appendix)
+    - Hosting components legislation (see appendix)
 9. The server supports a well-known support endpoint according to the Matrix spec: https://spec.matrix.org/unstable/client-server-api/#getwell-knownmatrixsupport
 10. The server has a moderation policy that aligns with the [Matrix code of conduct](https://matrix.org/legal/code-of-conduct/).
 
@@ -53,10 +56,10 @@ To be included in the list, a server must provide the following information:
 
 Title | Description
 --- | ---
-Server Name | The Matrix [`server_name`](https://spec.matrix.org/latest/appendices/#server-name) of the server, which is used to identify it within the Matrix ecosystem.
+Server Name | The Matrix [`server_name`](https://spec.matrix.org/latest/appendices/#server-name) of the server, which is used to identify it within the Matrix ecosystem.
 Server Common Name | A human-readable name for the server, which can be used for display purposes.
 Server URL | The URL of the server, which should be accessible and properly configured.
-UI URL | If the server is providing a web-client, the URL to it.
+UI URL(s) | If the server is providing a web-client (or multiple), the URL(s) to it.
 Server Software | The name and version of the Matrix server software being used (e.g., Synapse 1.50.0).
 Server Admin Contact | Contact information for the server administrator, such as an email address or a link.
 Hosting Type description | How and where is the server hosted and what components play into it? eg. self-hosted / housing / colocation / local hoster / hyperscaler / DNS Provider. Basically any technical components required to host the server.
