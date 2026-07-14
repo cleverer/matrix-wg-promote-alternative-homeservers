@@ -24,7 +24,7 @@ The Working Group is responsible for maintaining The Matrix.org Foundation’s t
 
 ## Working mode
 
-The WG will hold regular meetings on *every first Monday of the month at 17:00 UTC* ([subscribe to iCal](./meetings.ics?raw=true)) to discuss progress, challenges, and next steps. Meeting notes will be documented and stored in this repository.
+The WG will hold regular meetings on *every first Monday of the month at 19:00 CET/CEST ([subscribe to iCal](./meetings.ics?raw=true)) to discuss progress, challenges, and next steps. Meeting notes will be documented and stored in this repository.
 
 If you want to get involved, join a meeting or just follow our progress, feel free to join the [#homeserver-decentralisation:matrix.org](https://matrix.to/#/%23homeserver-decentralisation:matrix.org) room.
 
