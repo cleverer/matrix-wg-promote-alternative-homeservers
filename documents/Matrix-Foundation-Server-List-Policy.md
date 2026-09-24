@@ -31,8 +31,8 @@ According to the WGs charter, the WG periodically updates the list. There are no
     - How can admins be contacted?
     - What moderation rules/server rules does the server have?
     - What are the registration requirements/process?
-    - Hosting type description (see appendix)
-    - Hosting components legislation (see appendix)
+    - Hosting type description (see ux draft)
+    - Hosting components legislation (see ux draft)
 9. The server supports a well-known support endpoint according to the Matrix spec: https://spec.matrix.org/unstable/client-server-api/#getwell-knownmatrixsupport
 10. The server has a moderation policy that aligns with the [Matrix code of conduct](https://matrix.org/legal/code-of-conduct/).
 
@@ -49,25 +49,3 @@ _TBD:_ ask in the [#homeserver-decentralisation:matrix.org](https://matrix.to/#/
 
 ### Process
 Inclusions are reviewed manually and might require some time.
-
-## Appendix: Data required for representation in the list
-
-To be included in the list, a server must provide the following information:
-
-Title | Description
---- | ---
-Server Name | The Matrix [`server_name`](https://spec.matrix.org/latest/appendices/#server-name) of the server, which is used to identify it within the Matrix ecosystem.
-Server Common Name | A human-readable name for the server, which can be used for display purposes.
-Server URL | The URL of the server, which should be accessible and properly configured.
-UI URL(s) | If the server is providing a web-client (or multiple), the URL(s) to it.
-Server Software | The name and version of the Matrix server software being used (e.g., Synapse 1.50.0).
-Server Admin Contact | Contact information for the server administrator, such as an email address or a link.
-Hosting Type description | How and where is the server hosted and what components play into it? eg. self-hosted / housing / colocation / local hoster / hyperscaler / DNS Provider. Basically any technical components required to host the server.
-Hosting components legislation | The legislations the individual components of the hosting operate under.
-IPv4 Support | Does the server have IPv4 Connectivity (inbound and outbound). 
-IPv6 Support | Does the server have IPv6 Connectivity (inbound and outbound).
-OAuth 2.0 API Support | Does the server support [OAuth 2.0 API](https://spec.matrix.org/latest/client-server-api/#oauth-20-api) login / next gen auth?
-Legacy Login Support | Does the server support [legacy login](https://spec.matrix.org/latest/client-server-api/#legacy-api)?
-Sign-Up Process | What steps need to be taken to get an account and log in?
-Public Room Directory | Does the server have a public room directory?
-Number of active users | The number of active users (Users retained after 30 days of signup)
