@@ -71,13 +71,24 @@ Advantages | + Allows autonomy to the server admins<br/>+ Allows client develope
 Disadvantages | - Does not scale at all, client peformance will be abysmal<br/>- Every server admin gets too much data about the clients.<br/>- Directory list still has to be maintained somehow.
 Reasoning | This approach does not really make sense, as the disadvantages are too big.
 
-_WIP_
-- Config file => (semi-)dynamically generated List => Client only needs to fetch one file
-  - Data might be a bit delayed
-- Config file & Discovery Proxy
-  - Data is up to date, only list provider knows client
-  - Might be significant load
-  ![](./assets/architecture-proxy.png)
+#### Automated generation of full list
+&nbsp; | &nbsp;
+--- | ---
+Status | Under Consideration
+Description | We provide an automation/tool/script that fetches the servers data on a fixed schedule (eg. every 15-60min) and produces a standardized complete file, allowing clients to fetch only that and render the data table directly.
+Advantages | + Allows autonomy to the server admins<br/>+ Allows client developers to provide an opinionated list<br/>+ Scales well<br/>+ allows to be manual at first and then migratied to automated later<br/>+ Client Privacy is upheld
+Disadvantages | - Updates of the data is not instantaneous.
+Reasoning | 
+
+#### Config file & Discovery Proxy
+
+&nbsp; | &nbsp;
+--- | ---
+Status | Under Consideration
+Description | We provide a discovery proxy, that fetches all configured servers data on every request and produces a standardized complete file, allowing clients to fetch only that and render the data table directly.<br/>![](./assets/architecture-proxy.png)
+Advantages | + Allows autonomy to the server admins<br/>+ Allows client developers to provide an opinionated list<br/>+ allows to be manual at first and then migrated to automated later<br/>+ Client Privacy is upheld<br/>+ Udpates are instantaneous
+Disadvantages | - Might be significant hosting load
+Reasoning |
 
 ## Needed Technical Specifications
 
